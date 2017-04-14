@@ -1,2 +1,3 @@
 # hello-world
-Hello new day
+Hello, Have a nice day.
+ Let's learn Github together.
